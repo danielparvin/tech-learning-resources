@@ -27,6 +27,9 @@ This series of courses on LinkedIn Learning is amazing. I'm so glad that this wa
 [PostgreSQL: Client Applications by Adam Wilbert](https://www.linkedin.com/learning/postgresql-client-applications/work-with-postgresql-on-the-command-line)   
 This is an in-depth exploration of psql on LinkedIn Learning by the author of the Database Foundations series. In addition to providing a review of basic psql usage, the instructor helps learners streamline their use of psql through customization, and he highlights a few advanced configurations that early intermediate psql users would otherwise overlook. He also expounds on the best ways to use pg_dump and pg_restore with various parameters.
 
+[Learning JDBC](https://www.linkedin.com/learning/learning-jdbc)   
+This LinkedIn Learning course is a helpful introduction to the Java Database Connectivity API. The course includes information on the basics of using PreparedStatement and CallableStatement along with ordering and limiting results, paging, connection pooling, and a whole section on handling transactions.
+
 ## General/Other
 [Designing RESTful APIs by Keith Casey](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization)   
 In this LinkedIn Learning course, the author introduces and discusses best practices for REST API design. He shares insights concerning basic design considerations including appropriate endpoint names, HTTP methods, and URL parameters. He also spends some time explaining how to version and update a REST API.
