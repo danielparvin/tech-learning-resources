@@ -43,6 +43,9 @@ In this LinkedIn Learning course, the instructor introduces and discusses best p
 [Introduction to Linux by Scott Simpson](https://www.linkedin.com/learning/introduction-to-linux)   
 The instructor of this LinkedIn Learning course made Linux much more accessible than it would have been to me without this brief introduction when I first started using Linux occasionally a few years ago. The course is less than an hour long, but contains a lot of background information and general context to help new Linux users get acclimated. One of the most valuable aspects of this course is that the instructor encourages new users to make regular use of the `man` command to get information about commands.
 
+[React Key Concepts by Maximilian Schwarzmüller](https://learning.oreilly.com/library/view/react-key-concepts/9781803234502/)   
+I'm currently halfway through this book and really appreciate it so far. The author presents the most essential features of React and JSX in a systematic, incremental way. Each chapter builds off of the previous chapter at a pace that is neither too fast nor too slow.
+
 ## Networking
 [Networking Foundations: Networking Basics (2015) by Timothy Pintello](https://www.linkedin.com/learning/networking-foundations-networking-basics-2015)   
 [Networking Foundations: IP Addressing (2015) by Timothy Pintello](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2015)   
