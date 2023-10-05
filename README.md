@@ -11,6 +11,9 @@ This is another excellent resource that's conducive to group discussion. I led a
 [Parallel and Concurrent Programming with Java by Olivia Chiu Stone and Barron Stone](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1)   
 This is a two-part LinkedIn Learning video course. It is, surprisingly, as entertaining as it is informative! The husband-and-wife pair interact in fun and memorable ways, introducing key concurrency concepts and relevant Java APIs in relatable, accessible ways. (I have yet to complete the second part of this series.)
 
+[Java™ Puzzlers: Traps, Pitfalls, and Corner Cases](https://learning.oreilly.com/library/view/java-puzzlers-traps/032133678X/)   
+This book contains ninety-five puzzles from nine different categories (such as loops, exceptions, and strings). The puzzles challenge readers to think carefully about the ins and outs of the Java language. They serve as fun, stimulating icebreakers for team standups.
+
 ## Python
 [NumPy Essential Training: 1 Foundations of NumPy by Terezija Semenski](https://www.linkedin.com/learning/numpy-essential-training-1-foundations-of-numpy)   
 This video course on LinkedIn Learning is less than ninety minutes long, but is packed with helpful, introductory information on the basics of NumPy. The teacher is clear and methodical. The subsequent course, [NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities](https://www.linkedin.com/learning/numpy-essential-training-2-matplotlib-and-linear-algebra-capabilities), introduces additional material that builds on the basics.
